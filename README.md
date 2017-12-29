@@ -1,2 +1,2 @@
 # Makefile_Lista
-Exemplo de Makefile mas organizado.
+Exemplo de Makefile mais detalhado e organizado.
